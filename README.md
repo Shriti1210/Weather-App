@@ -1,4 +1,4 @@
-🌦️ Weather Widget (React App)
+# 🌦️ Weather Widget (React App)
 
 A simple React-based weather application that fetches real-time weather data from openweather API and displays temperature, conditions, and location details in a user-friendly interface.
 
